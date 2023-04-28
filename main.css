@@ -1,0 +1,60 @@
+
+body{
+    background-color:rgb(255, 247, 246);
+}
+
+
+.head1{
+    align-self: flex-start;
+    
+    color:rgb(5, 5, 5);
+    background-color: rgb(94, 179, 15);
+    
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sty{
+    width:auto;
+    min-height: fit-content;
+    background-color: rgb(14, 13, 13);
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.img2{
+    border-end-end-radius: 10px;
+    size:10px;
+    border: rgb(12, 13, 14);
+    box-shadow: 100px;
+    align-self: flex-end;
+    
+}
+.but{
+    cursor: pointer;
+    padding: 20px;
+    color:rgb(5, 4, 4);
+    background-color: rgb(251, 255, 0);
+    font-size:15px;
+    border-radius: 9px;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+.but1{
+    
+    align-items:center;
+    text-align: center;
+}
+p{
+    font-style: italic;
+    
+    font-size: large;
+    
+}
+.foot1{
+    background-color: green;
+    text-align: center;
+}

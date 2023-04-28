@@ -1,0 +1,33 @@
+.free{
+    align-self: flex-start;
+    
+    color:rgb(5, 5, 5);
+    background-color: rgb(94, 179, 15);
+    
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.image{
+    width:auto;
+    min-height: fit-content;
+    background-color: rgb(8, 8, 8);
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.but2{
+    align-items:center;
+    text-align: center;
+}
+.but3{
+    cursor: pointer;
+    padding: 20px;
+    color:rgb(5, 4, 4);
+    background-color: rgb(251, 255, 0);
+    font-size:15px;
+    border-radius: 9px;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
